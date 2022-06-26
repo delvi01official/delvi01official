@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [github.com/delvi01official](@delvi01official)
+- 👋 Hi, I’m [delvi01official](https://github.com/delvi01official)
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JavaScript, HTML and Swift
 - 📫 How to reach me management@over-network.eu
